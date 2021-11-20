@@ -2,7 +2,7 @@
 - 👀 I’m full_stack_Javascript_developer
 - 🌱 I’m currently learning at @Rwanda Coding Academy
 - 💞️ I’m looking to collaborate on building amazing apps using my skills
-- 📫 How to reach me 
+- 📫 How to reach me : mmanzicder@gmail.com
 
 <!---
 MManzicoder/MManzicoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
