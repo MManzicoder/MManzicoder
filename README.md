@@ -70,8 +70,8 @@
 
 </p>
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MManzicoder">
 </a>
-<a href="https://github.com/MManzicoder?tab=followers"><img src="https://img.shields.io/github/followers/MManzicoder?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MManzicoder?tab=followers"><img src="https://img.shields.io/github/followers/MManzicoder?label=Followers&style=social" alt="GitHub Badge"></a> -->
