@@ -6,9 +6,9 @@
 
 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://pbs.twimg.com/profile_images/1452704822923247627/V6ZHMyyi_400x400.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://pbs.twimg.com/profile_images/1452704822923247627/V6ZHMyyi_400x400.jpg" width="30px">, I'm Manzi</h1>
+<!-- <h1 align="center">Hi <img src="https://pbs.twimg.com/profile_images/1452704822923247627/V6ZHMyyi_400x400.jpg" width="30px">, I'm Manzi</h1> -->
 
 
 
