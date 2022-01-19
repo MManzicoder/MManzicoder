@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manzi <img src="https://pbs.twimg.com/profile_images/1452704822923247627/V6ZHMyyi_400x400.jpg" height="30px" width="30px" styles="border-radius: 50%;"/>
+- 👋 Hi, I’m Manzi <img src="https://pbs.twimg.com/profile_images/1452704822923247627/V6ZHMyyi_400x400.jpg" height="30px" width="30px" style="border-radius: 50%;"/>
 - 👀 I’m Passionate Full-stack Javascript_developer
 - 🌱 I’m currently learning at @Rwanda Coding Academy
 - 💞️ I’m looking to collaborate on building amazing apps using my skills
