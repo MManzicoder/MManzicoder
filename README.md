@@ -6,7 +6,7 @@
 
 
 
-<a href="#"><img width="50%" height="auto" src="https://scontent-mrs2-2.xx.fbcdn.net/v/t1.6435-9/120313936_172252184444995_2473909613128492306_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wTLEpnnvRLkAX-3n7Gm&_nc_ht=scontent-mrs2-2.xx&oh=00_AT-eO8ZTIc0fkDsNBRMy-uAiEzWB20O8-63inv3_HwB51g&oe=620EE013" height="175px"/></a>
+<a href="#"><img width="40%" border-radius="50%" height="auto" src="https://scontent-mrs2-2.xx.fbcdn.net/v/t1.6435-9/120313936_172252184444995_2473909613128492306_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wTLEpnnvRLkAX-3n7Gm&_nc_ht=scontent-mrs2-2.xx&oh=00_AT-eO8ZTIc0fkDsNBRMy-uAiEzWB20O8-63inv3_HwB51g&oe=620EE013" height="120px"/></a>
 
 <!-- <h1 align="center">Hi <img src="https://pbs.twimg.com/profile_images/1452704822923247627/V6ZHMyyi_400x400.jpg" width="30px">, I'm Manzi</h1> -->
 
