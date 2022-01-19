@@ -1,15 +1,15 @@
-
+- 👋 Hi, I’m @MManzicoder
+- 👀 I’m full_stack_Javascript_developer
+- 🌱 I’m currently learning at @Rwanda Coding Academy
+- 💞️ I’m looking to collaborate on building amazing apps using my skills
+- 📫 How to reach me : mmanzicder@gmail.com
 
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://pbs.twimg.com/profile_images/1452704822923247627/V6ZHMyyi_400x400.jpg" width="30px">, I'm Manzi</h1>
-- 👋 Hi, I’m @MManzicoder
-- 👀 I’m full_stack_Javascript_developer
-- 🌱 I’m currently learning at @Rwanda Coding Academy
-- 💞️ I’m looking to collaborate on building amazing apps using my skills
-- 📫 How to reach me : mmanzicder@gmail.com
+
 
 
 ## 🚀 Languages and Tools:
@@ -42,8 +42,8 @@
 
   <br/>
     <a href="https://github.com/MManzicoder/github-readme-stats"><img alt="Manzi" src="https://github-readme-stats.vercel.app/api?username=MManzicoder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MManzicoder/github-readme-stats"><img alt="Manzi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MManzicoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<!--   <a href="https://github.com/MManzicoder/github-readme-stats"><img alt="Manzi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MManzicoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/> -->
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
