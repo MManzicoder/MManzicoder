@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MManzicoder
-- 👀 I’m full_stack_Javascript_developer
+- 👋 Hi, I’m Manzi <img src="https://pbs.twimg.com/profile_images/1452704822923247627/V6ZHMyyi_400x400.jpg" />
+- 👀 I’m Full-stack Passionate Javascript_developer
 - 🌱 I’m currently learning at @Rwanda Coding Academy
 - 💞️ I’m looking to collaborate on building amazing apps using my skills
 - 📫 How to reach me : mmanzicder@gmail.com
