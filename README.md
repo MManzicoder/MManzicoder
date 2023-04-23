@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manzi
-- 👀 I’m Passionate Full-stack Javascript_developer
+- 👀 I’m Passionate Full-stack developer
 - 🌱 I’m currently learning at Rwanda Coding Academy
 - 💞️ I’m looking to collaborate on building amazing apps using my skills
 - 📫 How to reach me : mmanzicder@gmail.com
