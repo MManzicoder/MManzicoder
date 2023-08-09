@@ -62,7 +62,7 @@
 ## Connect with me:
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/mudahemuka-manzi-monnierey-441b9b201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/mudahemuka-manzi-441b9b201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/MMonnierey"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/manzitechpro/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
