@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Manzi
 - 👀 Passionate Full-stack developer
+- 👩‍🎓 Dartmouth College Student
 - 🌱 Rwanda Coding Academy graduate
 - 💞️ Working on sustainable climate change solutions
 - 📫 How to reach me : mmanzicder@gmail.com
